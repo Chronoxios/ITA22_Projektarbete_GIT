@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"H:/GIT/ITA22_Projektarbete_GIT/CG_Realtidsgrafik/Content/Sphere_Blueprint.uasset",
+				"H:/GIT/ITA22_Projektarbete_GIT/CG_Realtidsgrafik/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H6/ITCMESP5UGD7IQ5J1PKHN3.uasset",
+				"H:/GIT/ITA22_Projektarbete_GIT/CG_Realtidsgrafik/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/15/SK5GHDBCEK4JEHDBRG8A26.uasset",
+				"H:/GIT/ITA22_Projektarbete_GIT/CG_Realtidsgrafik/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0L/XY2ZFII362PE8GHZ4YUWO9.uasset"
+			]
+		}
+	]
+}
